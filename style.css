@@ -75,7 +75,7 @@ header.scrolled {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #fff;
+    color: white;
     text-align: center;
     padding: 0 20px;
 }
